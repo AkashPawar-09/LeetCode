@@ -31,4 +31,11 @@ Output: 21
 
 ---
 
+For C++ :
+
 **Runtime :** 0 ms | **Beats :** 100.00% | **Memory :** 8.48 MB
+
+---
+For C# : 
+
+**Runtime :** 19 ms | **Beats :** 70.38% | **Memory :** 28.89 MB
