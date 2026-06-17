@@ -35,5 +35,11 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 **Follow up:** Could you solve it without converting the integer to a string?
 
 ---
+For C++ :
 
 **Runtime :** 0 ms | **Beats :** 100.00% | **Memory :** 8.62 MB
+
+---
+For C# :
+
+**Runtime :** 1 ms | **Beats :** 99.94% | **Memory :** 36.40 MB
