@@ -49,3 +49,8 @@ Explanation: Your function should return k = 5, with the first five elements of 
 ---
 
 **Runtime :** 3 ms | **Beats :** 12.20% | **Memory :** 22.51 MB
+
+---
+For C# :
+
+**Runtime :** 0 ms | **Beats :** 100.00% | **Memory :** 51.38 MB
