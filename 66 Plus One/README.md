@@ -37,3 +37,9 @@ Explanation: The array represents the integer 9. Incrementing by one gives 9 + 1
 ---
 
 **Runtime :** 0 ms | **Beats :** 100.00% | **Memory :** 11.50 MB
+
+---
+
+For C# :
+
+**Runtime :** 0 ms | **Beats :** 100.00% | **Memory :** 46.31
