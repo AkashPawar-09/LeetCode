@@ -38,3 +38,8 @@ Output: [0,1]
 ---
 
 **Runtime :** 0 ms | **Beats :** 100.00% | **Memory :** 8.48 MB
+
+---
+For C# :
+
+**Runtime :** 29 ms | **Beats :** 42.85% | **Memory :** 48.81
