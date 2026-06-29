@@ -19,10 +19,10 @@ This repository contains my daily LeetCode problem solutions in **C++**. It focu
 ---
 ## 🌐 Multi-Language Solutions
 
-| Language | Question Numbers |
-|----------|-----------------|
-| C#       | 7, 9 , 26 , 66  |
-| MySQL    | 182             |
+| Language | Question Numbers       |
+|----------|------------------------|
+| C#       | 1, 7, 9, 26, 66        |
+| MySQL    | More than 50 Questions |
 
 ---
 ## 🤝 Contributions
